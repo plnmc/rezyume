@@ -121,7 +121,7 @@ Qmail, IIS, MS DNS, MS SQL, MS Exchange, MS Lync, Active Directory, Kafka
 Работал с Bugzilla, Jira, Testlink, Confluence.
 Писал тесты на PHP под Selenium.
 Работал с Jmeter, Postman
-Работал с Vmware, Oracle Virtualbox, Virtuozzo, Docker
+Работал с Vmware, Oracle Virtualbox, Virtuozzo, Docker.
 
 Автор лекций по функциональному тестированию ПО (дважды читал их студентам НГУ)
 http://swsoft.nsu.ru/docs/Andrey_Polyanskiy-Lectures_about_QA.doc
