@@ -125,3 +125,5 @@ Qmail, IIS, MS DNS, MS SQL, MS Exchange, MS Lync, Active Directory, Kafka
 
 Автор лекций по функциональному тестированию ПО (дважды читал их студентам НГУ)
 http://swsoft.nsu.ru/docs/Andrey_Polyanskiy-Lectures_about_QA.doc
+
+github https://github.com/plnmc/
